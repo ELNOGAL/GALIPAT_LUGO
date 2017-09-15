@@ -19,3 +19,6 @@ upgrade.py
 atlassian-ide-plugin.xml
 *~
 devel_*
+.mr.developer.cfg
+eggs-custom/
+
